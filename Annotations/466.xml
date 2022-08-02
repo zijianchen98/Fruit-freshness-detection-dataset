@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>466.jpg</filename>
+	<path>D:\deeplearning_github\keras-yolo3-master\VOCdevkit\VOC2007\JPEGImages\466.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>664</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotten_banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>86</ymin>
+			<xmax>604</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

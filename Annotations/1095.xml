@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>1095.jpg</filename>
+	<path>D:\deeplearning_github\keras-yolo3-master\VOCdevkit\VOC2007\JPEGImages\1095.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>666</width>
+		<height>434</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fresh_banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>75</ymin>
+			<xmax>648</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>
